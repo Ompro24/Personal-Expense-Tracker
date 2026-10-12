@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "category": "Food",
+        "amount": 2000.0,
+        "date": "2026-10-12",
+        "description": "Lunch at the College"
+    },
+    {
+        "id": "2",
+        "category": "Transport",
+        "amount": 200.0,
+        "date": "2026-10-12",
+        "description": "Travelling to College"
+    },
+    {
+        "id": "3",
+        "category": "Gym",
+        "amount": 10000.0,
+        "date": "2026-09-10",
+        "description": "Gym Membership"
+    },
+    {
+        "id": "4",
+        "category": "Shopping",
+        "amount": 5000.0,
+        "date": "2026-10-1",
+        "description": "Clothes"
+    }
+]
