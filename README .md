@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+Personal Expense Tracker
 
 ## Project Description
 
@@ -30,16 +30,10 @@ No database or third-party libraries are required.
 ```text
 PersonalExpenseTracker/
 ├── Expense.py
-├── expenses.json
 ├── README.md
-└── screenshots/
-    ├── add_expense.png
-    ├── view_expenses.png
-    ├── category_analysis.png
-    └── highest_expense.png
+└── expenses.json
+    
 ```
-
-The screenshot filenames above are examples. Save your own screenshots of the program in the `screenshots` folder.
 
 ## How to Run
 
@@ -118,13 +112,27 @@ The program handles malformed JSON syntax, but its current type check does not v
 ## Screenshots
 
 Include at least four screenshots showing your own program running. Recommended screenshots are:
-
+```
 1. Adding an expense successfully.
-2. Viewing all recorded expenses.
-3. Searching by category or displaying category-wise analysis.
-4. Displaying the highest expense.
+```
+<img width="1704" height="854" alt="image" src="https://github.com/user-attachments/assets/215e1312-2e98-4ed9-b596-12bd8989809d" />
 
-You may also include a screenshot of the total spending and the JSON file.
+```
+2. Viewing all recorded expenses.
+```
+<img width="1746" height="1166" alt="image" src="https://github.com/user-attachments/assets/187e45d2-2739-4a57-b402-034932f165af" />
+
+```
+3. Searching by category or displaying category-wise analysis.
+```
+<img width="1848" height="432" alt="image" src="https://github.com/user-attachments/assets/fefeafac-4d57-4e74-86b6-ce772ecae200" />
+
+```
+4. Displaying the highest expense.
+```
+<img width="1666" height="490" alt="image" src="https://github.com/user-attachments/assets/1d0bb28b-cc12-4fec-8ed2-81e8e443f165" />
+
+
 
 ## Conclusion
 
