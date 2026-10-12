@@ -1,0 +1,37 @@
+[
+    {
+        "id": "101",
+        "category": "Food",
+        "amount": 2000.0,
+        "date": "2026-10-12",
+        "description": "Expense for Lunch Food at College"
+    },
+    {
+        "id": "102",
+        "category": "Food",
+        "amount": 4000.0,
+        "date": "2026-03-20",
+        "description": "Expense for General Party"
+    },
+    {
+        "id": "103",
+        "category": "Gym",
+        "amount": 10000.0,
+        "date": "2026-09-20",
+        "description": "Annual Gym Fee "
+    },
+    {
+        "id": "104",
+        "category": "Transport",
+        "amount": 200.0,
+        "date": "2026-10-9",
+        "description": "Travelling expense Nominal"
+    },
+    {
+        "id": "105",
+        "category": "Shopping",
+        "amount": 5000.0,
+        "date": "2026-10-4",
+        "description": "Clothes"
+    }
+]
